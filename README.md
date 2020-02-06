@@ -1,0 +1,1 @@
+这是一个标准的团队协作项目，通过master，develop，release，feature_*，hotfix等分支对项目的开发及上线工作进行标准化管理
