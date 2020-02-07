@@ -2,5 +2,7 @@ feature_A功能，开发完毕。
 feature_B开发完成
 feature_A修复代码
 G修复一个master vo.1上一bug
+feature_E功能，开发完毕。
+
 
 
