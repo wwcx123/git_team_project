@@ -1,7 +1,6 @@
 feature_A功能，开发完毕。
 feature_B开发完成
 feature_A修复代码
-feature_E开发完成
 G修复一个master vo.1上一bug
 feature_E功能，开发完毕。
 feature_E_bug_E1的bug修改
